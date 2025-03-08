@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "spectacular_cities::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-spectacular_cities-Debug-0be6b5142cf72b5a0a72.json",
+					"jsonFile" : "target-spectacular_cities-Debug-459517cdce095b686734.json",
 					"name" : "spectacular_cities",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 6
 	}
 }

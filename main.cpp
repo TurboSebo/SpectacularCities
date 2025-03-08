@@ -1,11 +1,14 @@
 #include <ncurses.h>
 #include <iostream>
+#include "include/main_menu.h"
+
 using namespace std;
-int main() {
+int main()
+{
     initscr(); // Start ncurses
-    printw("Hello, World!"); // Print Hello, World!
-    getch(); // Wait for user input
-    endwin(); // End ncurses
-    
+    main_menu(); // Display menu
+    getch();        // Wait for user input
+    endwin();       // End ncurses
+
     return 0;
 }

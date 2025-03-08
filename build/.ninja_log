@@ -1,3 +1,12 @@
 # ninja log v5
-0	493	1741206514906232679	CMakeFiles/spectacular_cities.dir/main.cpp.o	c0e0b494cf6d4715
-494	910	1741206515316228975	spectacular_cities	2b6c5fc6895407a
+7	2078	1741472962307651950	CMakeFiles/spectacular_cities.dir/main.cpp.o	854532224ac424cd
+1078	1667	1741465878873585508	spectacular_cities	c89773f21c915c99
+4	948	1741465878141620736	CMakeFiles/spectacular_cities.dir/src/menu.cpp.o	1e571f1c4c4c54fd
+9	2079	1741472962305653362	CMakeFiles/spectacular_cities.dir/src/main_menu.cpp.o	b96d7b3b0e9eb72a
+3	215	1741473349829643222	spectacular_cities	c88c322e754cc913
+3	854	1741473496391990495	CMakeFiles/spectacular_cities.dir/src/main_menu.cpp.o	b96d7b3b0e9eb72a
+854	1167	1741473496704079982	spectacular_cities	c88c322e754cc913
+8	1371	1741473676481571081	CMakeFiles/spectacular_cities.dir/src/main_menu.cpp.o	b96d7b3b0e9eb72a
+1372	1787	1741473676890285382	spectacular_cities	c88c322e754cc913
+5	1604	1741473910834790362	CMakeFiles/spectacular_cities.dir/src/main_menu.cpp.o	b96d7b3b0e9eb72a
+1605	2118	1741473911339946963	spectacular_cities	c88c322e754cc913
